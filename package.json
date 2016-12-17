@@ -1,7 +1,7 @@
 {
   "name": "codeship-api-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example to show API testing",
   "main": "index.js",
   "dependencies": {
     "dredd": "^2.2.5",
