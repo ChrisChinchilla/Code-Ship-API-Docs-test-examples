@@ -4,9 +4,6 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "dredd": "^2.2.5"
-  },
-  "devDependencies": {
     "dredd": "^2.2.5",
     "md5": "^2.1.0",
     "dotenv": "^2.0.0"
