@@ -1,0 +1,27 @@
+{
+  "name": "codeship-api-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dredd": "^2.2.5"
+  },
+  "devDependencies": {
+    "dredd": "^2.2.5",
+    "md5": "^2.1.0",
+    "dotenv": "^2.0.0"
+  },
+  "scripts": {
+    "test": "dredd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisChinchilla/Code-Ship-API-Docs-test-examples.git"
+  },
+  "author": "Chris Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisChinchilla/Code-Ship-API-Docs-test-examples/issues"
+  },
+  "homepage": "https://github.com/ChrisChinchilla/Code-Ship-API-Docs-test-examples#readme"
+}
